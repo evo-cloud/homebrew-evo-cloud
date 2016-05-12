@@ -1,4 +1,4 @@
-class  Hypermake < Formula
+class  Hmake < Formula
   desc "hyperconverged build tool to build projects without pre-requisites"
   homepage "https://github.com/evo-cloud/hmake"
   url "https://github.com/evo-cloud/hmake/releases/download/v1.0.0rc2/hmake-1.0.0rc2-darwin-amd64.tar.gz"
