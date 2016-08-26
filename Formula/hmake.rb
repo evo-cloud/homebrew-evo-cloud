@@ -1,9 +1,9 @@
 class  Hmake < Formula
   desc "hyperconverged build tool to build projects without pre-requisites"
   homepage "https://evo-cloud.github.io/hmake"
-  url "https://github.com/evo-cloud/hmake/releases/download/v1.1.0rc3/hmake-darwin-amd64.tar.gz"
-  version "1.1.0rc3"
-  sha256 "230c96e3cfe5b5b6977d0d977bddde8dc34233280238ddf770890238e8818071"
+  url "https://github.com/evo-cloud/hmake/releases/download/v1.1.0rc4/hmake-darwin-amd64.tar.gz"
+  version "1.1.0rc4"
+  sha256 "d545f27856540d8568bb20224a6575cbc5e5abad1caf18c1285259f49ed0e553"
 
   def install
     bin.install "hmake"
